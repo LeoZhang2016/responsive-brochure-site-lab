@@ -175,7 +175,7 @@ a{
     border: 0.5px solid #5e5e5e;
 }
 
-.content-wrapper .row .col-4 figurecaption{
+.content-wrapper .row .col-4 h3{
     display: block;
     text-align: right;
     font-size: 0.9rem;
@@ -261,7 +261,7 @@ a{
         border-radius: 0.1rem;
     }
 
-    .content-wrapper .row .col-4 figurecaption{
+    .content-wrapper .row .col-4 h3{
         font-size: 1.1rem;
         font-weight: 600;
     }
@@ -385,7 +385,7 @@ a{
         text-overflow: clip;
     }
 
-    .content-wrapper .row .col-4 figurecaption{
+    .content-wrapper .row .col-4 h3{
         font-size: 1.4rem;
         font-weight: 600;
     }
