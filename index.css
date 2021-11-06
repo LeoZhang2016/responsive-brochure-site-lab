@@ -447,7 +447,6 @@ a{
         align-items: center;
     }
 
-
     .content-wrapper .row .col-4 {
         flex: 0 1 auto;
         width: calc(98% - 0.5rem);
